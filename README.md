@@ -18,9 +18,9 @@ This project applies YOLOv8s to detect common road objects such as cars, trucks,
 
 To evaluate performance across domain shifts, we tested the model on both:
 
-Still images from around Bowling Green, OH.
+- Still images from around Bowling Green, OH.
 
-Live inference via webcam capture, running predictions on local environments in real time.
+- Live inference via webcam capture, running predictions on local environments in real time.
 
 Training metrics demonstrated effective convergence, with total loss stabilizing around 2.0. Component analysis showed classification loss dominating early but decreasing steadily alongside box and DFL losses. Performance metrics revealed a precision peak of 0.73 (epoch 40) with a trade-off as recall gradually improved from 0.35 to 0.48.
 
