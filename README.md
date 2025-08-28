@@ -5,7 +5,9 @@ Retail Time Series Forecasting:
 
 This project focuses on forecasting daily operational costs using over three years of historical data (~1M records). I built a regression model in Python with XGBoost and scikit-learn, engineering 18 time-based features (such as day-of-week, lag values, and rolling averages) to capture trends and seasonality.
 
-The workflow included extensive data cleaning and exploratory data analysis with pandas, NumPy, and matplotlib to handle missing values, remove outliers, and uncover key patterns in the dataset. The final model achieved strong predictive performance, with an average R² of 0.90 and RMSE of 416.16, significantly outperforming baseline estimates
+The workflow included extensive data cleaning and exploratory data analysis with pandas, NumPy, and matplotlib to handle missing values, remove outliers, and uncover key patterns in the dataset.
+
+The final model achieved strong predictive performance, with an average R² of 0.90 and RMSE of 416.16, significantly outperforming baseline estimates
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Object Detection Model (collaborative project):
