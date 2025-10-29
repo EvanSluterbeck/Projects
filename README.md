@@ -1,8 +1,6 @@
 Hello everyone! My name is Evan Sluterbeck and will be graduating from Bowling Green State University in December. I am studying Computer Science with a Computational Data Science Specialization. I am passionate about all things with data: Data Science, Data Enginnering, Data Science; and I am actively seeking full-time positions in any of these roles. 
 
-My Projects
-
-This is a collection of projects I've worked on (solo and collaborative). Most of my solo projects should live in this current repo (EvanSluterbeck/Projects), but I have linked the respective repository for each project.
+My Projects: This is a collection of projects I've worked on (solo and collaborative). Most of my solo projects should live in this current repo (EvanSluterbeck/Projects), but I have linked the respective repository for each project.
 
 Time Series Forecasting Project (Solo):
 
@@ -13,7 +11,7 @@ The workflow included extensive data cleaning and exploratory data analysis with
 The final model achieved strong predictive performance, with an average R² of 0.90 and RMSE of 416.16, significantly outperforming baseline estimates.
 
 Repository: https://github.com/EvanSluterbeck/Projects
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Object Detection with YOLOv8 (Collaborative):
 
 This project applies YOLOv8s to detect common road objects such as cars, trucks, buses, traffic lights, and road signs. The model was trained on the BDD100K dataset (via Kaggle) with extensive data augmentation (geometric adjustments, flipping, color shifts, copy-paste, etc.) to improve generalization across varied conditions. Training ran for 300 epochs, with a learning rate schedule decaying from 0.0007 to 0.0001.
