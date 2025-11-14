@@ -26,3 +26,25 @@ To evaluate performance across domain shifts, we tested the model on both:
 Training metrics demonstrated effective convergence, with total loss stabilizing around 2.0. Component analysis showed classification loss dominating early but decreasing steadily alongside box and DFL losses. Performance metrics revealed a precision peak of 0.73 (epoch 40) with a trade-off as recall gradually improved from 0.35 to 0.48.
 
 Repository: https://github.com/EvanSluterbeck/ExploringYOLOForAccurateObjectDetection
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parallel K-Means Clustering with MPI (Collaborative)
+
+This project implements a parallel version of Lloyd’s K-means algorithm using C++ and Boost.MPI. We scaled a 1,000,000-sample, 25-feature dataset across multiple processes, starting from a serialized baseline and building a distributed system that maintains full correctness and reproducibility.
+
+Our design uses MPI collective operations (broadcast, all_reduce) for centroid updates and convergence checks, with each process performing local point assignments and contributing to global reductions. We ran 10 deterministic trials per configuration (1–10 processes), enabling detailed performance and scalability analysis.
+
+Key Features:
+
+Balanced data distribution across all MPI processes
+
+Deterministic seeding for reproducible serial/parallel comparisons
+
+Verified identical cluster assignments and centroid values across all configurations
+
+Near-linear scaling: 9.76× speedup on 10 processes with >95% efficiency
+
+Includes Slurm job scripts, timing utilities, plots, and a full performance report
+
+Repository: https://gitlab.com/Shafern01/cs4170_fa2025_a03_g02
+
