@@ -8,7 +8,7 @@ This project focuses on forecasting daily operational costs using over three yea
 
 The workflow included extensive data cleaning and exploratory data analysis with pandas, numpy, and matplotlib to handle missing values, remove outliers, and uncover key patterns in the dataset.
 
-The final model achieved strong predictive performance, with an average R² of 0.90 and RMSE of 416.16, significantly outperforming baseline estimates.
+The final model achieved strong predictive performance, with an average R² of 0.89 and RMSE of 527.44, significantly outperforming baseline estimates.
 
 Repository: https://github.com/EvanSluterbeck/Projects
 
