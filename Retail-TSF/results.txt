@@ -1,952 +1,952 @@
-Predicted sales on 2023-01-28: $32544.43
+Predicted sales on 2023-01-28: $32529.27
 Actual sales on 2023-01-28: $32299.26
+Percent error: 0.71%
+
+Predicted sales on 2023-01-29: $30458.08
+Actual sales on 2023-01-29: $30103.48
+Percent error: 1.18%
+
+Predicted sales on 2023-01-30: $30383.01
+Actual sales on 2023-01-30: $29535.67
+Percent error: 2.87%
+
+Predicted sales on 2023-01-31: $32958.10
+Actual sales on 2023-01-31: $33751.79
+Percent error: 2.35%
+
+Predicted sales on 2023-02-01: $32949.42
+Actual sales on 2023-02-01: $33201.37
 Percent error: 0.76%
 
-Predicted sales on 2023-01-29: $30439.70
-Actual sales on 2023-01-29: $30103.48
-Percent error: 1.12%
-
-Predicted sales on 2023-01-30: $30431.73
-Actual sales on 2023-01-30: $29535.67
-Percent error: 3.03%
-
-Predicted sales on 2023-01-31: $32947.41
-Actual sales on 2023-01-31: $33751.79
-Percent error: 2.38%
-
-Predicted sales on 2023-02-01: $32893.61
-Actual sales on 2023-02-01: $33201.37
-Percent error: 0.93%
-
-Predicted sales on 2023-02-02: $34460.22
+Predicted sales on 2023-02-02: $34456.02
 Actual sales on 2023-02-02: $34856.51
-Percent error: 1.14%
+Percent error: 1.15%
 
-Predicted sales on 2023-02-03: $32472.67
+Predicted sales on 2023-02-03: $32492.66
 Actual sales on 2023-02-03: $32516.96
-Percent error: 0.14%
+Percent error: 0.07%
 
-Predicted sales on 2023-02-04: $33453.18
+Predicted sales on 2023-02-04: $33464.75
 Actual sales on 2023-02-04: $33570.01
-Percent error: 0.35%
+Percent error: 0.31%
 
-Predicted sales on 2023-02-05: $34919.24
+Predicted sales on 2023-02-05: $34937.53
 Actual sales on 2023-02-05: $35416.15
-Percent error: 1.40%
+Percent error: 1.35%
 
-Predicted sales on 2023-02-06: $33655.34
+Predicted sales on 2023-02-06: $33669.20
 Actual sales on 2023-02-06: $33234.41
-Percent error: 1.27%
+Percent error: 1.31%
 
-Predicted sales on 2023-02-07: $33406.94
+Predicted sales on 2023-02-07: $33406.19
 Actual sales on 2023-02-07: $33010.27
 Percent error: 1.20%
 
-Predicted sales on 2023-02-08: $33655.37
+Predicted sales on 2023-02-08: $33653.88
 Actual sales on 2023-02-08: $33612.09
-Percent error: 0.13%
+Percent error: 0.12%
 
-Predicted sales on 2023-02-09: $32750.71
+Predicted sales on 2023-02-09: $32733.19
 Actual sales on 2023-02-09: $32425.32
-Percent error: 1.00%
+Percent error: 0.95%
 
-Predicted sales on 2023-02-10: $31119.43
+Predicted sales on 2023-02-10: $31124.33
 Actual sales on 2023-02-10: $30510.37
-Percent error: 2.00%
+Percent error: 2.01%
 
-Predicted sales on 2023-02-11: $31997.81
+Predicted sales on 2023-02-11: $31996.33
 Actual sales on 2023-02-11: $31967.93
 Percent error: 0.09%
 
-Predicted sales on 2023-02-12: $32762.91
+Predicted sales on 2023-02-12: $32742.74
 Actual sales on 2023-02-12: $33602.67
-Percent error: 2.50%
+Percent error: 2.56%
 
-Predicted sales on 2023-02-13: $32748.90
+Predicted sales on 2023-02-13: $32744.94
 Actual sales on 2023-02-13: $32500.17
-Percent error: 0.77%
+Percent error: 0.75%
 
-Predicted sales on 2023-02-14: $33181.79
+Predicted sales on 2023-02-14: $33171.53
 Actual sales on 2023-02-14: $33286.21
-Percent error: 0.31%
+Percent error: 0.34%
 
-Predicted sales on 2023-02-15: $32580.06
+Predicted sales on 2023-02-15: $32574.49
 Actual sales on 2023-02-15: $32542.01
-Percent error: 0.12%
+Percent error: 0.10%
 
-Predicted sales on 2023-02-16: $31202.75
+Predicted sales on 2023-02-16: $31207.21
 Actual sales on 2023-02-16: $30893.85
-Percent error: 1.00%
+Percent error: 1.01%
 
-Predicted sales on 2023-02-17: $34082.54
+Predicted sales on 2023-02-17: $34084.91
 Actual sales on 2023-02-17: $34357.61
-Percent error: 0.80%
+Percent error: 0.79%
 
-Predicted sales on 2023-02-18: $33880.59
+Predicted sales on 2023-02-18: $33875.80
 Actual sales on 2023-02-18: $34311.99
-Percent error: 1.26%
+Percent error: 1.27%
 
-Predicted sales on 2023-02-19: $33611.82
+Predicted sales on 2023-02-19: $33592.98
 Actual sales on 2023-02-19: $33544.31
-Percent error: 0.20%
+Percent error: 0.15%
 
-Predicted sales on 2023-02-20: $34679.99
+Predicted sales on 2023-02-20: $34679.85
 Actual sales on 2023-02-20: $35258.33
 Percent error: 1.64%
 
-Predicted sales on 2023-02-21: $29805.37
+Predicted sales on 2023-02-21: $29813.10
 Actual sales on 2023-02-21: $29680.20
-Percent error: 0.42%
+Percent error: 0.45%
 
-Predicted sales on 2023-02-22: $32517.69
+Predicted sales on 2023-02-22: $32507.87
 Actual sales on 2023-02-22: $32776.04
-Percent error: 0.79%
+Percent error: 0.82%
 
-Predicted sales on 2023-02-23: $33753.54
+Predicted sales on 2023-02-23: $33749.21
 Actual sales on 2023-02-23: $34427.78
-Percent error: 1.96%
+Percent error: 1.97%
 
-Predicted sales on 2023-02-24: $30642.95
+Predicted sales on 2023-02-24: $30666.72
 Actual sales on 2023-02-24: $30147.42
-Percent error: 1.64%
+Percent error: 1.72%
 
-Predicted sales on 2023-02-25: $32934.64
+Predicted sales on 2023-02-25: $32910.44
 Actual sales on 2023-02-25: $33125.93
-Percent error: 0.58%
+Percent error: 0.65%
 
-Predicted sales on 2023-02-26: $32796.55
+Predicted sales on 2023-02-26: $32817.59
 Actual sales on 2023-02-26: $33354.30
-Percent error: 1.67%
+Percent error: 1.61%
 
-Predicted sales on 2023-02-27: $32198.03
+Predicted sales on 2023-02-27: $32216.57
 Actual sales on 2023-02-27: $31915.03
-Percent error: 0.89%
+Percent error: 0.94%
 
-Predicted sales on 2023-02-28: $35853.12
+Predicted sales on 2023-02-28: $35875.58
 Actual sales on 2023-02-28: $36487.73
-Percent error: 1.74%
+Percent error: 1.68%
 
-Predicted sales on 2023-03-01: $32751.13
+Predicted sales on 2023-03-01: $32731.61
 Actual sales on 2023-03-01: $32350.01
-Percent error: 1.24%
+Percent error: 1.18%
 
-Predicted sales on 2023-03-02: $34175.98
+Predicted sales on 2023-03-02: $34194.04
 Actual sales on 2023-03-02: $33564.22
-Percent error: 1.82%
+Percent error: 1.88%
 
-Predicted sales on 2023-03-03: $32907.41
+Predicted sales on 2023-03-03: $32920.68
 Actual sales on 2023-03-03: $32418.30
-Percent error: 1.51%
+Percent error: 1.55%
 
-Predicted sales on 2023-03-04: $33649.22
+Predicted sales on 2023-03-04: $33650.20
 Actual sales on 2023-03-04: $33488.73
 Percent error: 0.48%
 
-Predicted sales on 2023-03-05: $32271.69
+Predicted sales on 2023-03-05: $32284.57
 Actual sales on 2023-03-05: $31911.46
-Percent error: 1.13%
+Percent error: 1.17%
 
-Predicted sales on 2023-03-06: $33074.40
+Predicted sales on 2023-03-06: $33084.96
 Actual sales on 2023-03-06: $32911.34
-Percent error: 0.50%
+Percent error: 0.53%
 
-Predicted sales on 2023-03-07: $33005.48
+Predicted sales on 2023-03-07: $32989.78
 Actual sales on 2023-03-07: $33123.06
-Percent error: 0.35%
+Percent error: 0.40%
 
-Predicted sales on 2023-03-08: $33105.78
+Predicted sales on 2023-03-08: $33098.14
 Actual sales on 2023-03-08: $32938.56
-Percent error: 0.51%
+Percent error: 0.48%
 
-Predicted sales on 2023-03-09: $33736.65
+Predicted sales on 2023-03-09: $33737.17
 Actual sales on 2023-03-09: $33819.77
-Percent error: 0.25%
+Percent error: 0.24%
 
-Predicted sales on 2023-03-10: $33441.66
+Predicted sales on 2023-03-10: $33437.19
 Actual sales on 2023-03-10: $33565.82
-Percent error: 0.37%
+Percent error: 0.38%
 
-Predicted sales on 2023-03-11: $31189.00
+Predicted sales on 2023-03-11: $31196.40
 Actual sales on 2023-03-11: $30772.41
-Percent error: 1.35%
+Percent error: 1.38%
 
-Predicted sales on 2023-03-12: $32426.24
+Predicted sales on 2023-03-12: $32443.24
 Actual sales on 2023-03-12: $32971.81
-Percent error: 1.65%
+Percent error: 1.60%
 
-Predicted sales on 2023-03-13: $31807.28
+Predicted sales on 2023-03-13: $31778.11
 Actual sales on 2023-03-13: $31414.79
-Percent error: 1.25%
+Percent error: 1.16%
 
-Predicted sales on 2023-03-14: $35539.36
+Predicted sales on 2023-03-14: $35520.75
 Actual sales on 2023-03-14: $36067.23
-Percent error: 1.46%
+Percent error: 1.52%
 
-Predicted sales on 2023-03-15: $33482.87
+Predicted sales on 2023-03-15: $33475.52
 Actual sales on 2023-03-15: $33179.63
-Percent error: 0.91%
+Percent error: 0.89%
 
-Predicted sales on 2023-03-16: $34424.14
+Predicted sales on 2023-03-16: $34432.94
 Actual sales on 2023-03-16: $34473.73
-Percent error: 0.14%
+Percent error: 0.12%
 
-Predicted sales on 2023-03-17: $32908.33
+Predicted sales on 2023-03-17: $32902.95
 Actual sales on 2023-03-17: $32721.79
-Percent error: 0.57%
+Percent error: 0.55%
 
-Predicted sales on 2023-03-18: $35370.16
+Predicted sales on 2023-03-18: $35386.52
 Actual sales on 2023-03-18: $36415.44
-Percent error: 2.87%
+Percent error: 2.83%
 
-Predicted sales on 2023-03-19: $33085.03
+Predicted sales on 2023-03-19: $33091.16
 Actual sales on 2023-03-19: $32250.75
-Percent error: 2.59%
+Percent error: 2.61%
 
-Predicted sales on 2023-03-20: $34616.23
+Predicted sales on 2023-03-20: $34625.88
 Actual sales on 2023-03-20: $34563.99
-Percent error: 0.15%
+Percent error: 0.18%
 
-Predicted sales on 2023-03-21: $31830.37
+Predicted sales on 2023-03-21: $31809.12
 Actual sales on 2023-03-21: $30690.36
-Percent error: 3.71%
+Percent error: 3.65%
 
-Predicted sales on 2023-03-22: $33799.07
+Predicted sales on 2023-03-22: $33824.12
 Actual sales on 2023-03-22: $33530.98
-Percent error: 0.80%
+Percent error: 0.87%
 
-Predicted sales on 2023-03-23: $35341.42
+Predicted sales on 2023-03-23: $35358.95
 Actual sales on 2023-03-23: $35794.73
-Percent error: 1.27%
+Percent error: 1.22%
 
-Predicted sales on 2023-03-24: $33043.34
+Predicted sales on 2023-03-24: $33033.73
 Actual sales on 2023-03-24: $32090.58
-Percent error: 2.97%
+Percent error: 2.94%
 
-Predicted sales on 2023-03-25: $32878.42
+Predicted sales on 2023-03-25: $32859.10
 Actual sales on 2023-03-25: $32382.64
-Percent error: 1.53%
+Percent error: 1.47%
 
-Predicted sales on 2023-03-26: $33700.32
+Predicted sales on 2023-03-26: $33710.11
 Actual sales on 2023-03-26: $33890.05
-Percent error: 0.56%
+Percent error: 0.53%
 
-Predicted sales on 2023-03-27: $34326.46
+Predicted sales on 2023-03-27: $34346.75
 Actual sales on 2023-03-27: $35046.55
-Percent error: 2.05%
+Percent error: 2.00%
 
-Predicted sales on 2023-03-28: $32886.60
+Predicted sales on 2023-03-28: $32890.70
 Actual sales on 2023-03-28: $32332.10
-Percent error: 1.72%
+Percent error: 1.73%
 
-Predicted sales on 2023-03-29: $31760.85
+Predicted sales on 2023-03-29: $31776.62
 Actual sales on 2023-03-29: $30720.99
-Percent error: 3.38%
+Percent error: 3.44%
 
-Predicted sales on 2023-03-30: $35287.55
+Predicted sales on 2023-03-30: $35306.29
 Actual sales on 2023-03-30: $35749.89
-Percent error: 1.29%
+Percent error: 1.24%
 
-Predicted sales on 2023-03-31: $35471.90
+Predicted sales on 2023-03-31: $35474.44
 Actual sales on 2023-03-31: $36404.88
 Percent error: 2.56%
 
-Predicted sales on 2023-04-01: $32879.80
+Predicted sales on 2023-04-01: $32862.48
 Actual sales on 2023-04-01: $31632.00
-Percent error: 3.94%
+Percent error: 3.89%
 
-Predicted sales on 2023-04-02: $32504.70
+Predicted sales on 2023-04-02: $32515.68
 Actual sales on 2023-04-02: $31929.13
-Percent error: 1.80%
+Percent error: 1.84%
 
-Predicted sales on 2023-04-03: $32292.16
+Predicted sales on 2023-04-03: $32321.50
 Actual sales on 2023-04-03: $32158.78
-Percent error: 0.41%
+Percent error: 0.51%
 
-Predicted sales on 2023-04-04: $31358.57
+Predicted sales on 2023-04-04: $31340.78
 Actual sales on 2023-04-04: $30309.35
-Percent error: 3.46%
+Percent error: 3.40%
 
-Predicted sales on 2023-04-05: $31775.95
+Predicted sales on 2023-04-05: $31737.94
 Actual sales on 2023-04-05: $31272.39
-Percent error: 1.61%
+Percent error: 1.49%
 
-Predicted sales on 2023-04-06: $30982.25
+Predicted sales on 2023-04-06: $30975.86
 Actual sales on 2023-04-06: $30433.76
-Percent error: 1.80%
+Percent error: 1.78%
 
-Predicted sales on 2023-04-07: $32973.99
+Predicted sales on 2023-04-07: $32970.34
 Actual sales on 2023-04-07: $33377.91
-Percent error: 1.21%
+Percent error: 1.22%
 
-Predicted sales on 2023-04-08: $33232.73
+Predicted sales on 2023-04-08: $33223.85
 Actual sales on 2023-04-08: $33706.94
-Percent error: 1.41%
+Percent error: 1.43%
 
-Predicted sales on 2023-04-09: $30310.38
+Predicted sales on 2023-04-09: $30325.14
 Actual sales on 2023-04-09: $29880.64
-Percent error: 1.44%
+Percent error: 1.49%
 
-Predicted sales on 2023-04-10: $33702.18
+Predicted sales on 2023-04-10: $33721.83
 Actual sales on 2023-04-10: $35417.06
-Percent error: 4.84%
+Percent error: 4.79%
 
-Predicted sales on 2023-04-11: $33330.51
+Predicted sales on 2023-04-11: $33334.98
 Actual sales on 2023-04-11: $34244.16
-Percent error: 2.67%
+Percent error: 2.65%
 
-Predicted sales on 2023-04-12: $33323.16
+Predicted sales on 2023-04-12: $33343.77
 Actual sales on 2023-04-12: $32850.09
-Percent error: 1.44%
+Percent error: 1.50%
 
-Predicted sales on 2023-04-13: $33160.62
+Predicted sales on 2023-04-13: $33160.95
 Actual sales on 2023-04-13: $33081.60
 Percent error: 0.24%
 
-Predicted sales on 2023-04-14: $34114.45
+Predicted sales on 2023-04-14: $34097.70
 Actual sales on 2023-04-14: $34071.07
-Percent error: 0.13%
-
-Predicted sales on 2023-04-15: $34151.37
-Actual sales on 2023-04-15: $34311.96
-Percent error: 0.47%
-
-Predicted sales on 2023-04-16: $33078.15
-Actual sales on 2023-04-16: $32821.81
-Percent error: 0.78%
-
-Predicted sales on 2023-04-17: $31461.04
-Actual sales on 2023-04-17: $30882.01
-Percent error: 1.87%
-
-Predicted sales on 2023-04-18: $33763.39
-Actual sales on 2023-04-18: $34059.82
-Percent error: 0.87%
-
-Predicted sales on 2023-04-19: $33813.71
-Actual sales on 2023-04-19: $33943.77
-Percent error: 0.38%
-
-Predicted sales on 2023-04-20: $34707.36
-Actual sales on 2023-04-20: $34862.63
-Percent error: 0.45%
-
-Predicted sales on 2023-04-21: $30573.26
-Actual sales on 2023-04-21: $30316.07
-Percent error: 0.85%
-
-Predicted sales on 2023-04-22: $33205.25
-Actual sales on 2023-04-22: $33518.79
-Percent error: 0.94%
-
-Predicted sales on 2023-04-23: $31566.79
-Actual sales on 2023-04-23: $29942.59
-Percent error: 5.42%
-
-Predicted sales on 2023-04-24: $32929.86
-Actual sales on 2023-04-24: $33956.81
-Percent error: 3.02%
-
-Predicted sales on 2023-04-25: $33058.24
-Actual sales on 2023-04-25: $33927.98
-Percent error: 2.56%
-
-Predicted sales on 2023-04-26: $33769.49
-Actual sales on 2023-04-26: $33693.77
-Percent error: 0.22%
-
-Predicted sales on 2023-04-27: $33937.34
-Actual sales on 2023-04-27: $33964.35
 Percent error: 0.08%
 
-Predicted sales on 2023-04-28: $33008.62
+Predicted sales on 2023-04-15: $34140.02
+Actual sales on 2023-04-15: $34311.96
+Percent error: 0.50%
+
+Predicted sales on 2023-04-16: $33055.30
+Actual sales on 2023-04-16: $32821.81
+Percent error: 0.71%
+
+Predicted sales on 2023-04-17: $31472.74
+Actual sales on 2023-04-17: $30882.01
+Percent error: 1.91%
+
+Predicted sales on 2023-04-18: $33756.35
+Actual sales on 2023-04-18: $34059.82
+Percent error: 0.89%
+
+Predicted sales on 2023-04-19: $33807.11
+Actual sales on 2023-04-19: $33943.77
+Percent error: 0.40%
+
+Predicted sales on 2023-04-20: $34697.59
+Actual sales on 2023-04-20: $34862.63
+Percent error: 0.47%
+
+Predicted sales on 2023-04-21: $30571.14
+Actual sales on 2023-04-21: $30316.07
+Percent error: 0.84%
+
+Predicted sales on 2023-04-22: $33196.75
+Actual sales on 2023-04-22: $33518.79
+Percent error: 0.96%
+
+Predicted sales on 2023-04-23: $31550.04
+Actual sales on 2023-04-23: $29942.59
+Percent error: 5.37%
+
+Predicted sales on 2023-04-24: $32922.36
+Actual sales on 2023-04-24: $33956.81
+Percent error: 3.05%
+
+Predicted sales on 2023-04-25: $33071.02
+Actual sales on 2023-04-25: $33927.98
+Percent error: 2.53%
+
+Predicted sales on 2023-04-26: $33762.63
+Actual sales on 2023-04-26: $33693.77
+Percent error: 0.20%
+
+Predicted sales on 2023-04-27: $33934.69
+Actual sales on 2023-04-27: $33964.35
+Percent error: 0.09%
+
+Predicted sales on 2023-04-28: $33018.35
 Actual sales on 2023-04-28: $33066.30
-Percent error: 0.17%
+Percent error: 0.15%
 
-Predicted sales on 2023-04-29: $29426.21
+Predicted sales on 2023-04-29: $29460.39
 Actual sales on 2023-04-29: $28918.59
-Percent error: 1.76%
+Percent error: 1.87%
 
-Predicted sales on 2023-04-30: $31662.13
+Predicted sales on 2023-04-30: $31705.19
 Actual sales on 2023-04-30: $31936.66
-Percent error: 0.86%
+Percent error: 0.72%
 
-Predicted sales on 2023-05-01: $32214.34
+Predicted sales on 2023-05-01: $32190.78
 Actual sales on 2023-05-01: $32353.24
-Percent error: 0.43%
+Percent error: 0.50%
 
-Predicted sales on 2023-05-02: $31989.81
+Predicted sales on 2023-05-02: $32002.56
 Actual sales on 2023-05-02: $31516.87
-Percent error: 1.50%
+Percent error: 1.54%
 
-Predicted sales on 2023-05-03: $31636.89
+Predicted sales on 2023-05-03: $31673.25
 Actual sales on 2023-05-03: $31873.63
-Percent error: 0.74%
+Percent error: 0.63%
 
-Predicted sales on 2023-05-04: $34291.75
+Predicted sales on 2023-05-04: $34283.10
 Actual sales on 2023-05-04: $34779.34
-Percent error: 1.40%
+Percent error: 1.43%
 
-Predicted sales on 2023-05-05: $32122.63
+Predicted sales on 2023-05-05: $32096.17
 Actual sales on 2023-05-05: $31902.33
-Percent error: 0.69%
+Percent error: 0.61%
 
-Predicted sales on 2023-05-06: $32875.69
+Predicted sales on 2023-05-06: $32889.55
 Actual sales on 2023-05-06: $33292.53
-Percent error: 1.25%
+Percent error: 1.21%
 
-Predicted sales on 2023-05-07: $32710.45
+Predicted sales on 2023-05-07: $32705.76
 Actual sales on 2023-05-07: $32870.52
-Percent error: 0.49%
+Percent error: 0.50%
 
-Predicted sales on 2023-05-08: $30083.52
+Predicted sales on 2023-05-08: $30098.43
 Actual sales on 2023-05-08: $29665.50
-Percent error: 1.41%
+Percent error: 1.46%
 
-Predicted sales on 2023-05-09: $32349.14
+Predicted sales on 2023-05-09: $32359.60
 Actual sales on 2023-05-09: $33081.17
-Percent error: 2.21%
+Percent error: 2.18%
 
-Predicted sales on 2023-05-10: $31478.18
+Predicted sales on 2023-05-10: $31487.57
 Actual sales on 2023-05-10: $31202.82
-Percent error: 0.88%
+Percent error: 0.91%
 
-Predicted sales on 2023-05-11: $32439.14
+Predicted sales on 2023-05-11: $32443.52
 Actual sales on 2023-05-11: $32514.10
-Percent error: 0.23%
+Percent error: 0.22%
 
-Predicted sales on 2023-05-12: $33388.05
+Predicted sales on 2023-05-12: $33393.51
 Actual sales on 2023-05-12: $34105.62
-Percent error: 2.10%
+Percent error: 2.09%
 
-Predicted sales on 2023-05-13: $32340.60
+Predicted sales on 2023-05-13: $32321.58
 Actual sales on 2023-05-13: $32455.28
-Percent error: 0.35%
+Percent error: 0.41%
 
-Predicted sales on 2023-05-14: $32851.84
+Predicted sales on 2023-05-14: $32828.11
 Actual sales on 2023-05-14: $32866.96
-Percent error: 0.05%
+Percent error: 0.12%
 
-Predicted sales on 2023-05-15: $32931.49
+Predicted sales on 2023-05-15: $32932.11
 Actual sales on 2023-05-15: $33161.62
 Percent error: 0.69%
 
-Predicted sales on 2023-05-16: $31996.02
+Predicted sales on 2023-05-16: $31995.03
 Actual sales on 2023-05-16: $31680.82
 Percent error: 0.99%
 
-Predicted sales on 2023-05-17: $31227.42
+Predicted sales on 2023-05-17: $31253.08
 Actual sales on 2023-05-17: $30984.56
-Percent error: 0.78%
+Percent error: 0.87%
 
-Predicted sales on 2023-05-18: $31472.88
+Predicted sales on 2023-05-18: $31477.58
 Actual sales on 2023-05-18: $31548.62
-Percent error: 0.24%
+Percent error: 0.23%
 
-Predicted sales on 2023-05-19: $34591.95
+Predicted sales on 2023-05-19: $34608.12
 Actual sales on 2023-05-19: $34954.74
-Percent error: 1.04%
+Percent error: 0.99%
 
-Predicted sales on 2023-05-20: $32656.63
+Predicted sales on 2023-05-20: $32664.94
 Actual sales on 2023-05-20: $32212.81
-Percent error: 1.38%
+Percent error: 1.40%
 
-Predicted sales on 2023-05-21: $33013.67
+Predicted sales on 2023-05-21: $33008.92
 Actual sales on 2023-05-21: $33272.69
-Percent error: 0.78%
+Percent error: 0.79%
 
-Predicted sales on 2023-05-22: $34074.53
+Predicted sales on 2023-05-22: $34084.98
 Actual sales on 2023-05-22: $34858.77
-Percent error: 2.25%
+Percent error: 2.22%
 
-Predicted sales on 2023-05-23: $34423.90
+Predicted sales on 2023-05-23: $34438.45
 Actual sales on 2023-05-23: $35063.14
-Percent error: 1.82%
+Percent error: 1.78%
 
-Predicted sales on 2023-05-24: $33067.84
+Predicted sales on 2023-05-24: $33061.25
 Actual sales on 2023-05-24: $32843.01
-Percent error: 0.68%
+Percent error: 0.66%
 
-Predicted sales on 2023-05-25: $33761.45
+Predicted sales on 2023-05-25: $33782.11
 Actual sales on 2023-05-25: $33720.41
-Percent error: 0.12%
+Percent error: 0.18%
 
-Predicted sales on 2023-05-26: $33440.82
+Predicted sales on 2023-05-26: $33434.57
 Actual sales on 2023-05-26: $32947.68
-Percent error: 1.50%
+Percent error: 1.48%
 
-Predicted sales on 2023-05-27: $32600.49
+Predicted sales on 2023-05-27: $32606.76
 Actual sales on 2023-05-27: $32309.01
-Percent error: 0.90%
+Percent error: 0.92%
 
-Predicted sales on 2023-05-28: $32136.79
+Predicted sales on 2023-05-28: $32138.36
 Actual sales on 2023-05-28: $31882.34
 Percent error: 0.80%
 
-Predicted sales on 2023-05-29: $32394.21
+Predicted sales on 2023-05-29: $32403.05
 Actual sales on 2023-05-29: $32482.77
-Percent error: 0.27%
+Percent error: 0.25%
 
-Predicted sales on 2023-05-30: $32673.42
+Predicted sales on 2023-05-30: $32678.62
 Actual sales on 2023-05-30: $32626.49
-Percent error: 0.14%
+Percent error: 0.16%
 
-Predicted sales on 2023-05-31: $33604.26
+Predicted sales on 2023-05-31: $33611.71
 Actual sales on 2023-05-31: $33901.22
-Percent error: 0.88%
+Percent error: 0.85%
 
-Predicted sales on 2023-06-01: $33980.17
+Predicted sales on 2023-06-01: $33989.75
 Actual sales on 2023-06-01: $34565.50
-Percent error: 1.69%
+Percent error: 1.67%
 
-Predicted sales on 2023-06-02: $32157.91
+Predicted sales on 2023-06-02: $32153.51
 Actual sales on 2023-06-02: $31780.80
-Percent error: 1.19%
+Percent error: 1.17%
 
-Predicted sales on 2023-06-03: $32642.39
+Predicted sales on 2023-06-03: $32642.77
 Actual sales on 2023-06-03: $32386.64
 Percent error: 0.79%
 
-Predicted sales on 2023-06-04: $32437.94
+Predicted sales on 2023-06-04: $32448.44
 Actual sales on 2023-06-04: $32136.80
-Percent error: 0.94%
+Percent error: 0.97%
 
-Predicted sales on 2023-06-05: $31438.98
+Predicted sales on 2023-06-05: $31440.09
 Actual sales on 2023-06-05: $31372.74
 Percent error: 0.21%
 
-Predicted sales on 2023-06-06: $32955.61
+Predicted sales on 2023-06-06: $32926.29
 Actual sales on 2023-06-06: $32984.86
-Percent error: 0.09%
+Percent error: 0.18%
 
-Predicted sales on 2023-06-07: $31916.92
+Predicted sales on 2023-06-07: $31911.70
 Actual sales on 2023-06-07: $31504.17
-Percent error: 1.31%
+Percent error: 1.29%
 
-Predicted sales on 2023-06-08: $31337.24
+Predicted sales on 2023-06-08: $31363.59
 Actual sales on 2023-06-08: $31449.98
-Percent error: 0.36%
+Percent error: 0.27%
 
-Predicted sales on 2023-06-09: $31707.12
+Predicted sales on 2023-06-09: $31714.01
 Actual sales on 2023-06-09: $31545.07
-Percent error: 0.51%
+Percent error: 0.54%
 
-Predicted sales on 2023-06-10: $30611.50
+Predicted sales on 2023-06-10: $30588.32
 Actual sales on 2023-06-10: $29698.56
-Percent error: 3.07%
-
-Predicted sales on 2023-06-11: $30537.19
-Actual sales on 2023-06-11: $29369.51
-Percent error: 3.98%
-
-Predicted sales on 2023-06-12: $30766.07
-Actual sales on 2023-06-12: $31241.04
-Percent error: 1.52%
-
-Predicted sales on 2023-06-13: $30628.98
-Actual sales on 2023-06-13: $31575.85
 Percent error: 3.00%
 
-Predicted sales on 2023-06-14: $33248.80
+Predicted sales on 2023-06-11: $30493.82
+Actual sales on 2023-06-11: $29369.51
+Percent error: 3.83%
+
+Predicted sales on 2023-06-12: $30783.80
+Actual sales on 2023-06-12: $31241.04
+Percent error: 1.46%
+
+Predicted sales on 2023-06-13: $30643.22
+Actual sales on 2023-06-13: $31575.85
+Percent error: 2.95%
+
+Predicted sales on 2023-06-14: $33240.27
 Actual sales on 2023-06-14: $34096.98
-Percent error: 2.49%
+Percent error: 2.51%
 
-Predicted sales on 2023-06-15: $30841.79
+Predicted sales on 2023-06-15: $30889.27
 Actual sales on 2023-06-15: $29788.03
-Percent error: 3.54%
+Percent error: 3.70%
 
-Predicted sales on 2023-06-16: $31144.04
+Predicted sales on 2023-06-16: $31154.90
 Actual sales on 2023-06-16: $30314.98
-Percent error: 2.73%
+Percent error: 2.77%
 
-Predicted sales on 2023-06-17: $33150.42
+Predicted sales on 2023-06-17: $33207.39
 Actual sales on 2023-06-17: $34281.40
-Percent error: 3.30%
+Percent error: 3.13%
 
-Predicted sales on 2023-06-18: $32573.63
+Predicted sales on 2023-06-18: $32614.04
 Actual sales on 2023-06-18: $32942.59
-Percent error: 1.12%
+Percent error: 1.00%
 
-Predicted sales on 2023-06-19: $33437.19
+Predicted sales on 2023-06-19: $33458.54
 Actual sales on 2023-06-19: $34060.95
-Percent error: 1.83%
+Percent error: 1.77%
 
-Predicted sales on 2023-06-20: $32937.07
+Predicted sales on 2023-06-20: $32912.07
 Actual sales on 2023-06-20: $33122.37
-Percent error: 0.56%
+Percent error: 0.63%
 
-Predicted sales on 2023-06-21: $33686.79
+Predicted sales on 2023-06-21: $33668.79
 Actual sales on 2023-06-21: $34002.85
-Percent error: 0.93%
+Percent error: 0.98%
 
-Predicted sales on 2023-06-22: $33329.32
+Predicted sales on 2023-06-22: $33342.07
 Actual sales on 2023-06-22: $33607.30
-Percent error: 0.83%
+Percent error: 0.79%
 
-Predicted sales on 2023-06-23: $34063.41
+Predicted sales on 2023-06-23: $34047.83
 Actual sales on 2023-06-23: $33944.61
-Percent error: 0.35%
+Percent error: 0.30%
 
-Predicted sales on 2023-06-24: $31172.55
+Predicted sales on 2023-06-24: $31195.83
 Actual sales on 2023-06-24: $31009.83
-Percent error: 0.52%
+Percent error: 0.60%
 
-Predicted sales on 2023-06-25: $33341.12
+Predicted sales on 2023-06-25: $33355.62
 Actual sales on 2023-06-25: $33838.83
-Percent error: 1.47%
+Percent error: 1.43%
 
-Predicted sales on 2023-06-26: $31925.88
+Predicted sales on 2023-06-26: $31935.43
 Actual sales on 2023-06-26: $30629.98
-Percent error: 4.23%
+Percent error: 4.26%
 
-Predicted sales on 2023-06-27: $32140.45
+Predicted sales on 2023-06-27: $32138.91
 Actual sales on 2023-06-27: $31984.65
-Percent error: 0.49%
+Percent error: 0.48%
 
-Predicted sales on 2023-06-28: $32664.63
+Predicted sales on 2023-06-28: $32642.44
 Actual sales on 2023-06-28: $33095.91
-Percent error: 1.30%
+Percent error: 1.37%
 
-Predicted sales on 2023-06-29: $32320.38
+Predicted sales on 2023-06-29: $32308.24
 Actual sales on 2023-06-29: $32282.01
-Percent error: 0.12%
+Percent error: 0.08%
 
-Predicted sales on 2023-06-30: $31513.10
+Predicted sales on 2023-06-30: $31500.27
 Actual sales on 2023-06-30: $31205.03
-Percent error: 0.99%
+Percent error: 0.95%
 
-Predicted sales on 2023-07-01: $34583.09
+Predicted sales on 2023-07-01: $34582.52
 Actual sales on 2023-07-01: $34872.57
 Percent error: 0.83%
 
-Predicted sales on 2023-07-02: $31770.97
+Predicted sales on 2023-07-02: $31778.11
 Actual sales on 2023-07-02: $30895.60
-Percent error: 2.83%
+Percent error: 2.86%
 
-Predicted sales on 2023-07-03: $33441.48
+Predicted sales on 2023-07-03: $33433.64
 Actual sales on 2023-07-03: $33807.34
-Percent error: 1.08%
+Percent error: 1.11%
 
-Predicted sales on 2023-07-04: $32533.36
+Predicted sales on 2023-07-04: $32513.46
 Actual sales on 2023-07-04: $32735.38
-Percent error: 0.62%
+Percent error: 0.68%
 
-Predicted sales on 2023-07-05: $31785.32
+Predicted sales on 2023-07-05: $31783.54
 Actual sales on 2023-07-05: $31477.66
-Percent error: 0.98%
+Percent error: 0.97%
 
-Predicted sales on 2023-07-06: $31354.51
+Predicted sales on 2023-07-06: $31375.14
 Actual sales on 2023-07-06: $31286.79
-Percent error: 0.22%
+Percent error: 0.28%
 
-Predicted sales on 2023-07-07: $31725.73
+Predicted sales on 2023-07-07: $31725.53
 Actual sales on 2023-07-07: $31633.54
 Percent error: 0.29%
 
-Predicted sales on 2023-07-08: $33200.13
+Predicted sales on 2023-07-08: $33187.84
 Actual sales on 2023-07-08: $33481.27
-Percent error: 0.84%
+Percent error: 0.88%
 
-Predicted sales on 2023-07-09: $34672.23
+Predicted sales on 2023-07-09: $34674.42
 Actual sales on 2023-07-09: $35282.91
-Percent error: 1.73%
+Percent error: 1.72%
 
-Predicted sales on 2023-07-10: $33376.75
+Predicted sales on 2023-07-10: $33369.37
 Actual sales on 2023-07-10: $33301.31
-Percent error: 0.23%
+Percent error: 0.20%
 
-Predicted sales on 2023-07-11: $34407.16
+Predicted sales on 2023-07-11: $34425.59
 Actual sales on 2023-07-11: $35568.83
-Percent error: 3.27%
+Percent error: 3.21%
 
-Predicted sales on 2023-07-12: $33615.61
+Predicted sales on 2023-07-12: $33611.04
 Actual sales on 2023-07-12: $33176.80
-Percent error: 1.32%
+Percent error: 1.31%
 
-Predicted sales on 2023-07-13: $32690.52
+Predicted sales on 2023-07-13: $32677.96
 Actual sales on 2023-07-13: $32263.62
-Percent error: 1.32%
+Percent error: 1.28%
 
-Predicted sales on 2023-07-14: $34454.43
+Predicted sales on 2023-07-14: $34452.31
 Actual sales on 2023-07-14: $34762.11
 Percent error: 0.89%
 
-Predicted sales on 2023-07-15: $33843.16
+Predicted sales on 2023-07-15: $33860.70
 Actual sales on 2023-07-15: $33874.68
-Percent error: 0.09%
+Percent error: 0.04%
 
-Predicted sales on 2023-07-16: $33567.39
+Predicted sales on 2023-07-16: $33546.68
 Actual sales on 2023-07-16: $33384.39
-Percent error: 0.55%
+Percent error: 0.49%
 
-Predicted sales on 2023-07-17: $32699.21
+Predicted sales on 2023-07-17: $32683.98
 Actual sales on 2023-07-17: $32199.42
-Percent error: 1.55%
+Percent error: 1.50%
 
-Predicted sales on 2023-07-18: $34769.22
+Predicted sales on 2023-07-18: $34767.00
 Actual sales on 2023-07-18: $35486.54
-Percent error: 2.02%
+Percent error: 2.03%
 
-Predicted sales on 2023-07-19: $32207.82
+Predicted sales on 2023-07-19: $32229.01
 Actual sales on 2023-07-19: $31073.40
-Percent error: 3.65%
+Percent error: 3.72%
 
-Predicted sales on 2023-07-20: $32850.10
+Predicted sales on 2023-07-20: $32846.59
 Actual sales on 2023-07-20: $32183.79
-Percent error: 2.07%
+Percent error: 2.06%
 
-Predicted sales on 2023-07-21: $33145.64
+Predicted sales on 2023-07-21: $33131.29
 Actual sales on 2023-07-21: $33258.90
-Percent error: 0.34%
+Percent error: 0.38%
 
-Predicted sales on 2023-07-22: $33319.51
+Predicted sales on 2023-07-22: $33329.27
 Actual sales on 2023-07-22: $33778.69
-Percent error: 1.36%
+Percent error: 1.33%
 
-Predicted sales on 2023-07-23: $30904.98
+Predicted sales on 2023-07-23: $30897.69
 Actual sales on 2023-07-23: $30383.53
-Percent error: 1.72%
+Percent error: 1.69%
 
-Predicted sales on 2023-07-24: $33254.50
+Predicted sales on 2023-07-24: $33223.05
 Actual sales on 2023-07-24: $33553.43
-Percent error: 0.89%
+Percent error: 0.98%
 
-Predicted sales on 2023-07-25: $32543.25
+Predicted sales on 2023-07-25: $32543.98
 Actual sales on 2023-07-25: $32917.74
 Percent error: 1.14%
 
-Predicted sales on 2023-07-26: $33279.88
+Predicted sales on 2023-07-26: $33285.20
 Actual sales on 2023-07-26: $33502.48
-Percent error: 0.66%
-
-Predicted sales on 2023-07-27: $35027.59
-Actual sales on 2023-07-27: $35283.90
-Percent error: 0.73%
-
-Predicted sales on 2023-07-28: $34085.45
-Actual sales on 2023-07-28: $34323.26
-Percent error: 0.69%
-
-Predicted sales on 2023-07-29: $34419.31
-Actual sales on 2023-07-29: $35381.29
-Percent error: 2.72%
-
-Predicted sales on 2023-07-30: $32180.54
-Actual sales on 2023-07-30: $31523.77
-Percent error: 2.08%
-
-Predicted sales on 2023-07-31: $33132.02
-Actual sales on 2023-07-31: $32591.24
-Percent error: 1.66%
-
-Predicted sales on 2023-08-01: $33561.18
-Actual sales on 2023-08-01: $33363.29
-Percent error: 0.59%
-
-Predicted sales on 2023-08-02: $34047.49
-Actual sales on 2023-08-02: $34163.87
-Percent error: 0.34%
-
-Predicted sales on 2023-08-03: $33703.62
-Actual sales on 2023-08-03: $33924.07
 Percent error: 0.65%
 
-Predicted sales on 2023-08-04: $34008.46
-Actual sales on 2023-08-04: $33837.30
-Percent error: 0.51%
+Predicted sales on 2023-07-27: $35016.68
+Actual sales on 2023-07-27: $35283.90
+Percent error: 0.76%
 
-Predicted sales on 2023-08-05: $34390.77
-Actual sales on 2023-08-05: $34537.93
+Predicted sales on 2023-07-28: $34081.94
+Actual sales on 2023-07-28: $34323.26
+Percent error: 0.70%
+
+Predicted sales on 2023-07-29: $34376.23
+Actual sales on 2023-07-29: $35381.29
+Percent error: 2.84%
+
+Predicted sales on 2023-07-30: $32137.27
+Actual sales on 2023-07-30: $31523.77
+Percent error: 1.95%
+
+Predicted sales on 2023-07-31: $33139.07
+Actual sales on 2023-07-31: $32591.24
+Percent error: 1.68%
+
+Predicted sales on 2023-08-01: $33557.76
+Actual sales on 2023-08-01: $33363.29
+Percent error: 0.58%
+
+Predicted sales on 2023-08-02: $34043.21
+Actual sales on 2023-08-02: $34163.87
+Percent error: 0.35%
+
+Predicted sales on 2023-08-03: $33709.88
+Actual sales on 2023-08-03: $33924.07
+Percent error: 0.63%
+
+Predicted sales on 2023-08-04: $33981.97
+Actual sales on 2023-08-04: $33837.30
 Percent error: 0.43%
 
-Predicted sales on 2023-08-06: $32805.34
+Predicted sales on 2023-08-05: $34370.54
+Actual sales on 2023-08-05: $34537.93
+Percent error: 0.48%
+
+Predicted sales on 2023-08-06: $32787.22
 Actual sales on 2023-08-06: $32275.31
-Percent error: 1.64%
+Percent error: 1.59%
 
-Predicted sales on 2023-08-07: $34014.99
+Predicted sales on 2023-08-07: $34006.70
 Actual sales on 2023-08-07: $34149.66
-Percent error: 0.39%
+Percent error: 0.42%
 
-Predicted sales on 2023-08-08: $30096.56
+Predicted sales on 2023-08-08: $30099.51
 Actual sales on 2023-08-08: $29113.77
-Percent error: 3.38%
+Percent error: 3.39%
 
-Predicted sales on 2023-08-09: $31293.38
+Predicted sales on 2023-08-09: $31301.74
 Actual sales on 2023-08-09: $30357.36
-Percent error: 3.08%
+Percent error: 3.11%
 
-Predicted sales on 2023-08-10: $34020.23
+Predicted sales on 2023-08-10: $34039.91
 Actual sales on 2023-08-10: $34981.64
-Percent error: 2.75%
+Percent error: 2.69%
 
-Predicted sales on 2023-08-11: $33735.92
+Predicted sales on 2023-08-11: $33784.96
 Actual sales on 2023-08-11: $34084.79
-Percent error: 1.02%
+Percent error: 0.88%
 
-Predicted sales on 2023-08-12: $33540.31
+Predicted sales on 2023-08-12: $33551.22
 Actual sales on 2023-08-12: $33445.58
-Percent error: 0.28%
+Percent error: 0.32%
 
-Predicted sales on 2023-08-13: $29871.88
+Predicted sales on 2023-08-13: $29904.05
 Actual sales on 2023-08-13: $29439.26
+Percent error: 1.58%
+
+Predicted sales on 2023-08-14: $33546.05
+Actual sales on 2023-08-14: $35231.35
+Percent error: 4.78%
+
+Predicted sales on 2023-08-15: $32108.25
+Actual sales on 2023-08-15: $32161.92
+Percent error: 0.17%
+
+Predicted sales on 2023-08-16: $32711.28
+Actual sales on 2023-08-16: $32235.35
+Percent error: 1.48%
+
+Predicted sales on 2023-08-17: $33299.96
+Actual sales on 2023-08-17: $33606.19
+Percent error: 0.91%
+
+Predicted sales on 2023-08-18: $31251.66
+Actual sales on 2023-08-18: $30698.19
+Percent error: 1.80%
+
+Predicted sales on 2023-08-19: $32350.29
+Actual sales on 2023-08-19: $33040.25
+Percent error: 2.09%
+
+Predicted sales on 2023-08-20: $32476.03
+Actual sales on 2023-08-20: $32540.11
+Percent error: 0.20%
+
+Predicted sales on 2023-08-21: $32783.27
+Actual sales on 2023-08-21: $32884.26
+Percent error: 0.31%
+
+Predicted sales on 2023-08-22: $30790.47
+Actual sales on 2023-08-22: $30345.40
 Percent error: 1.47%
 
-Predicted sales on 2023-08-14: $33522.20
-Actual sales on 2023-08-14: $35231.35
-Percent error: 4.85%
-
-Predicted sales on 2023-08-15: $32135.95
-Actual sales on 2023-08-15: $32161.92
-Percent error: 0.08%
-
-Predicted sales on 2023-08-16: $32688.25
-Actual sales on 2023-08-16: $32235.35
-Percent error: 1.40%
-
-Predicted sales on 2023-08-17: $33298.15
-Actual sales on 2023-08-17: $33606.19
-Percent error: 0.92%
-
-Predicted sales on 2023-08-18: $31260.53
-Actual sales on 2023-08-18: $30698.19
-Percent error: 1.83%
-
-Predicted sales on 2023-08-19: $32360.43
-Actual sales on 2023-08-19: $33040.25
-Percent error: 2.06%
-
-Predicted sales on 2023-08-20: $32499.27
-Actual sales on 2023-08-20: $32540.11
-Percent error: 0.13%
-
-Predicted sales on 2023-08-21: $32786.08
-Actual sales on 2023-08-21: $32884.26
-Percent error: 0.30%
-
-Predicted sales on 2023-08-22: $30781.00
-Actual sales on 2023-08-22: $30345.40
-Percent error: 1.44%
-
-Predicted sales on 2023-08-23: $32339.20
+Predicted sales on 2023-08-23: $32311.07
 Actual sales on 2023-08-23: $32984.32
-Percent error: 1.96%
+Percent error: 2.04%
 
-Predicted sales on 2023-08-24: $31525.44
+Predicted sales on 2023-08-24: $31514.90
 Actual sales on 2023-08-24: $31464.45
-Percent error: 0.19%
+Percent error: 0.16%
 
-Predicted sales on 2023-08-25: $31452.60
+Predicted sales on 2023-08-25: $31467.48
 Actual sales on 2023-08-25: $31499.06
-Percent error: 0.15%
+Percent error: 0.10%
 
-Predicted sales on 2023-08-26: $33874.39
+Predicted sales on 2023-08-26: $33875.25
 Actual sales on 2023-08-26: $34429.11
 Percent error: 1.61%
 
-Predicted sales on 2023-08-27: $33369.43
+Predicted sales on 2023-08-27: $33367.36
 Actual sales on 2023-08-27: $33419.77
-Percent error: 0.15%
+Percent error: 0.16%
 
-Predicted sales on 2023-08-28: $32253.22
+Predicted sales on 2023-08-28: $32267.23
 Actual sales on 2023-08-28: $32117.16
-Percent error: 0.42%
+Percent error: 0.47%
 
-Predicted sales on 2023-08-29: $34289.66
+Predicted sales on 2023-08-29: $34297.52
 Actual sales on 2023-08-29: $35320.87
-Percent error: 2.92%
+Percent error: 2.90%
 
-Predicted sales on 2023-08-30: $32040.59
+Predicted sales on 2023-08-30: $32024.00
 Actual sales on 2023-08-30: $31731.34
-Percent error: 0.97%
+Percent error: 0.92%
 
-Predicted sales on 2023-08-31: $32390.20
+Predicted sales on 2023-08-31: $32378.26
 Actual sales on 2023-08-31: $31851.22
-Percent error: 1.69%
+Percent error: 1.65%
 
-Predicted sales on 2023-09-01: $32159.70
+Predicted sales on 2023-09-01: $32186.82
 Actual sales on 2023-09-01: $32133.66
-Percent error: 0.08%
+Percent error: 0.17%
 
-Predicted sales on 2023-09-02: $31135.73
+Predicted sales on 2023-09-02: $31112.85
 Actual sales on 2023-09-02: $30227.13
-Percent error: 3.01%
+Percent error: 2.93%
 
-Predicted sales on 2023-09-03: $30593.33
+Predicted sales on 2023-09-03: $30552.39
 Actual sales on 2023-09-03: $30032.98
-Percent error: 1.87%
+Percent error: 1.73%
 
-Predicted sales on 2023-09-04: $33256.82
+Predicted sales on 2023-09-04: $33293.18
 Actual sales on 2023-09-04: $34020.10
-Percent error: 2.24%
+Percent error: 2.14%
 
-Predicted sales on 2023-09-05: $32125.67
+Predicted sales on 2023-09-05: $32122.88
 Actual sales on 2023-09-05: $31967.29
-Percent error: 0.50%
+Percent error: 0.49%
 
-Predicted sales on 2023-09-06: $33081.33
+Predicted sales on 2023-09-06: $33095.80
 Actual sales on 2023-09-06: $33301.13
-Percent error: 0.66%
+Percent error: 0.62%
 
-Predicted sales on 2023-09-07: $33732.72
+Predicted sales on 2023-09-07: $33736.25
 Actual sales on 2023-09-07: $34464.77
-Percent error: 2.12%
+Percent error: 2.11%
 
-Predicted sales on 2023-09-08: $30590.99
+Predicted sales on 2023-09-08: $30576.42
 Actual sales on 2023-09-08: $30452.61
-Percent error: 0.45%
+Percent error: 0.41%
 
-Predicted sales on 2023-09-09: $31482.34
+Predicted sales on 2023-09-09: $31495.20
 Actual sales on 2023-09-09: $31226.72
-Percent error: 0.82%
+Percent error: 0.86%
 
-Predicted sales on 2023-09-10: $33037.90
+Predicted sales on 2023-09-10: $33034.73
 Actual sales on 2023-09-10: $33564.11
-Percent error: 1.57%
+Percent error: 1.58%
 
-Predicted sales on 2023-09-11: $32507.30
+Predicted sales on 2023-09-11: $32482.94
 Actual sales on 2023-09-11: $32500.66
-Percent error: 0.02%
+Percent error: 0.05%
 
-Predicted sales on 2023-09-12: $32072.02
+Predicted sales on 2023-09-12: $32059.20
 Actual sales on 2023-09-12: $31868.24
-Percent error: 0.64%
+Percent error: 0.60%
 
-Predicted sales on 2023-09-13: $33513.03
+Predicted sales on 2023-09-13: $33520.46
 Actual sales on 2023-09-13: $33875.44
-Percent error: 1.07%
+Percent error: 1.05%
 
-Predicted sales on 2023-09-14: $31685.55
+Predicted sales on 2023-09-14: $31666.54
 Actual sales on 2023-09-14: $31328.12
-Percent error: 1.14%
+Percent error: 1.08%
 
-Predicted sales on 2023-09-15: $33010.99
+Predicted sales on 2023-09-15: $33014.14
 Actual sales on 2023-09-15: $33349.38
 Percent error: 1.01%
 
-Predicted sales on 2023-09-16: $33388.84
+Predicted sales on 2023-09-16: $33381.44
 Actual sales on 2023-09-16: $33672.00
-Percent error: 0.84%
+Percent error: 0.86%
 
-Predicted sales on 2023-09-17: $33028.23
+Predicted sales on 2023-09-17: $33045.45
 Actual sales on 2023-09-17: $33243.49
-Percent error: 0.65%
+Percent error: 0.60%
 
-Predicted sales on 2023-09-18: $32690.23
+Predicted sales on 2023-09-18: $32684.79
 Actual sales on 2023-09-18: $32578.60
-Percent error: 0.34%
+Percent error: 0.33%
 
-Predicted sales on 2023-09-19: $33737.47
+Predicted sales on 2023-09-19: $33745.79
 Actual sales on 2023-09-19: $34210.80
-Percent error: 1.38%
+Percent error: 1.36%
 
-Predicted sales on 2023-09-20: $31378.73
+Predicted sales on 2023-09-20: $31374.04
 Actual sales on 2023-09-20: $31194.62
-Percent error: 0.59%
+Percent error: 0.58%
 
-Predicted sales on 2023-09-21: $31801.92
+Predicted sales on 2023-09-21: $31783.45
 Actual sales on 2023-09-21: $31073.69
-Percent error: 2.34%
+Percent error: 2.28%
 
-Predicted sales on 2023-09-22: $33877.69
+Predicted sales on 2023-09-22: $33879.60
 Actual sales on 2023-09-22: $34084.46
-Percent error: 0.61%
+Percent error: 0.60%
 
