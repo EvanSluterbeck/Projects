@@ -2,6 +2,47 @@ Hello everyone! My name is Evan Sluterbeck and will be graduating from Bowling G
 
 My Projects: This is a collection of projects I've worked on (solo and collaborative). Most of my solo projects should live in this current repo (EvanSluterbeck/Projects), but I have linked the respective repository for each project.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RGL Statistical Platform (Senior Capstone)
+
+This project focuses on building a secure backend and database infrastructure for a statistical platform. The system was developed primarily using Java and Spring Boot, with a PostgreSQL database managed via SQL and Flyway migrations. The backend exposes RESTful APIs that enable secure communication with the frontend, while enforcing role-based authentication and API key–based access controls for different user roles.
+
+The development workflow included:
+
+- Designing the relational database schema to support complex queries and structured data storage
+- Implementing protected CRUD endpoints with fine-grained role-based authorization
+- Creating API key–based access with tiered permissions for external data consumers
+- Validating all endpoints and API behavior using Swagger UI for real-time testing and documentation
+- Managing database schema evolution with Flyway migrations to ensure consistency across environments
+
+Key Features:
+
+- Secure REST API with protected endpoints for multiple user roles
+- Role-based authentication and authorization enforcing access restrictions
+- Tiered API key system controlling access to raw JSON data
+- Relational database schema designed for scalability and maintainability
+- Endpoints validated in real time via Swagger UI
+
+Tech Stack: Java, Spring Boot, PostgreSQL, SQL, Flyway, Swagger UI
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Parallel K-Means Clustering with MPI (Collaborative)
+
+This project implements a parallel version of Lloyd’s K-means algorithm using C++ and Boost.MPI. We scaled a 1,000,000-sample, 25-feature dataset across multiple processes, starting from a serialized baseline and building a distributed system that maintains full correctness and reproducibility.
+
+Our design uses MPI collective operations (broadcast, all_reduce) for centroid updates and convergence checks, with each process performing local point assignments and contributing to global reductions. We ran 10 deterministic trials per configuration (1–10 processes), enabling detailed performance and scalability analysis.
+
+Key Features:
+
+- Balanced data distribution across all MPI processes
+- Deterministic seeding for reproducible serial/parallel comparisons
+- Verified identical cluster assignments and centroid values across all configurations
+- Near-linear scaling: 9.76× speedup on 10 processes with >95% efficiency
+- Includes Slurm job scripts, timing utilities, plots, and a full performance report
+
+Repository: https://gitlab.com/Shafern01/cs4170_fa2025_a03_g02
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Time Series Forecasting Project (Solo):
 
 This project focuses on forecasting daily operational costs using over three years of historical data (~1M records). I built a regression model in Python with XGBoost and scikit-learn, engineering 18 time-based features (such as day-of-week, lag values, and rolling averages) to capture trends and seasonality.
@@ -28,23 +69,5 @@ Training metrics demonstrated effective convergence, with total loss stabilizing
 Repository: https://github.com/EvanSluterbeck/ExploringYOLOForAccurateObjectDetection
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Parallel K-Means Clustering with MPI (Collaborative)
 
-This project implements a parallel version of Lloyd’s K-means algorithm using C++ and Boost.MPI. We scaled a 1,000,000-sample, 25-feature dataset across multiple processes, starting from a serialized baseline and building a distributed system that maintains full correctness and reproducibility.
-
-Our design uses MPI collective operations (broadcast, all_reduce) for centroid updates and convergence checks, with each process performing local point assignments and contributing to global reductions. We ran 10 deterministic trials per configuration (1–10 processes), enabling detailed performance and scalability analysis.
-
-Key Features:
-
-Balanced data distribution across all MPI processes
-
-Deterministic seeding for reproducible serial/parallel comparisons
-
-Verified identical cluster assignments and centroid values across all configurations
-
-Near-linear scaling: 9.76× speedup on 10 processes with >95% efficiency
-
-Includes Slurm job scripts, timing utilities, plots, and a full performance report
-
-Repository: https://gitlab.com/Shafern01/cs4170_fa2025_a03_g02
 
