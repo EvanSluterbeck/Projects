@@ -1,4 +1,4 @@
-Hello everyone! My name is Evan Sluterbeck and will be graduating from Bowling Green State University in December. I am studying Computer Science with a Computational Data Science Specialization. I am passionate about all things with data: Data Science, Data Enginnering, Data Analytics; and I am actively seeking full-time positions in any of these roles. 
+Hello everyone! My name is Evan Sluterbeck; I just completed my B.S. in Computer Science with a Computational Data Science Specialization. I am passionate about all things with data: Data Science, Data Enginnering, Data Analytics; and I am actively seeking full-time positions in any of these roles. 
 
 My Projects: This is a collection of projects I've worked on (solo and collaborative). Most of my solo projects should live in this current repo (EvanSluterbeck/Projects), but I have linked the respective repository for each project.
 
